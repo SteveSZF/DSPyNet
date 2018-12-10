@@ -1,0 +1,5 @@
+/home/szf/torch/install/lib/luarocks/rocks/spybhwd/scm-1/lib/libspy.so
+/home/szf/torch/install/lib/luarocks/rocks/spybhwd/scm-1/lua/spy/ScaleBHWD.lua
+/home/szf/torch/install/lib/luarocks/rocks/spybhwd/scm-1/lua/spy/test.lua
+/home/szf/torch/install/lib/luarocks/rocks/spybhwd/scm-1/lua/spy/init.lua
+/home/szf/torch/install/lib/luarocks/rocks/spybhwd/scm-1/lib/libcuspy.so

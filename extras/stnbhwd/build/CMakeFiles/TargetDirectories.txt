@@ -1,0 +1,8 @@
+/home/szf/spynet3/extras/stnbhwd/build/CMakeFiles/install.dir
+/home/szf/spynet3/extras/stnbhwd/build/CMakeFiles/list_install_components.dir
+/home/szf/spynet3/extras/stnbhwd/build/CMakeFiles/edit_cache.dir
+/home/szf/spynet3/extras/stnbhwd/build/CMakeFiles/stn.dir
+/home/szf/spynet3/extras/stnbhwd/build/CMakeFiles/rebuild_cache.dir
+/home/szf/spynet3/extras/stnbhwd/build/CMakeFiles/custn.dir
+/home/szf/spynet3/extras/stnbhwd/build/CMakeFiles/install/strip.dir
+/home/szf/spynet3/extras/stnbhwd/build/CMakeFiles/install/local.dir
